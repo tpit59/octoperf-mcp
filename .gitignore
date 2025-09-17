@@ -1,0 +1,9 @@
+# Binaires compilés
+/mcp-octoperf
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Dossiers spécifiques aux éditeurs
+.vscode
